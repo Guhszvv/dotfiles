@@ -3,7 +3,8 @@
     <h3></h3>
 </div>
 
-
+> [!WARNING]
+> This is my personal config. Everything's hard coded and not meant to work on a different machine.
 
 <table align="center"><thead>
   <tr>
