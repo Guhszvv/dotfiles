@@ -3,12 +3,34 @@
     <h3></h3>
 </div>
 
-Just my silly dotfiles for my **Arch Linux + I3wm**
 
+
+<table align="center"><thead>
+  <tr>
+    <th>Shell</th>
+    <th>WM</th>
+    <th>Editor</th>
+    <th>Terminal</th>
+    <th>File Manager</th>
+    <th>Session Manager</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>Fish</td>
+    <td>I3</td>
+    <td>VSCodium</td>
+    <td>Kitty</td>
+    <td>Thunar</td>
+    <td><a href="https://github.com/uiriansan/SilentSDDM">SilentSDDM</a></td>
+  </tr>
+</tbody>
+</table>
 
 <div align="center">
     <h2>• screenshots •</h2>
 </div>
 
-![image](image.png)
-![image](image-2.png)
+<div aling="center">
+    <img src="./image.png" width="1000"/>
+    <img src="./image-2.png" width="1000"/>
+</div>
